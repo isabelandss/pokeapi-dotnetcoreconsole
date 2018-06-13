@@ -1,0 +1,11 @@
+C:\Users\isabela.santos\Desktop\HttpClient_dotnet\bin\Debug\netcoreapp2.0\HttpClient_dotnet.deps.json
+C:\Users\isabela.santos\Desktop\HttpClient_dotnet\bin\Debug\netcoreapp2.0\HttpClient_dotnet.runtimeconfig.json
+C:\Users\isabela.santos\Desktop\HttpClient_dotnet\bin\Debug\netcoreapp2.0\HttpClient_dotnet.runtimeconfig.dev.json
+C:\Users\isabela.santos\Desktop\HttpClient_dotnet\bin\Debug\netcoreapp2.0\HttpClient_dotnet.dll
+C:\Users\isabela.santos\Desktop\HttpClient_dotnet\bin\Debug\netcoreapp2.0\HttpClient_dotnet.pdb
+C:\Users\isabela.santos\Desktop\HttpClient_dotnet\obj\Debug\netcoreapp2.0\HttpClient_dotnet.csprojAssemblyReference.cache
+C:\Users\isabela.santos\Desktop\HttpClient_dotnet\obj\Debug\netcoreapp2.0\HttpClient_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\isabela.santos\Desktop\HttpClient_dotnet\obj\Debug\netcoreapp2.0\HttpClient_dotnet.AssemblyInfoInputs.cache
+C:\Users\isabela.santos\Desktop\HttpClient_dotnet\obj\Debug\netcoreapp2.0\HttpClient_dotnet.AssemblyInfo.cs
+C:\Users\isabela.santos\Desktop\HttpClient_dotnet\obj\Debug\netcoreapp2.0\HttpClient_dotnet.dll
+C:\Users\isabela.santos\Desktop\HttpClient_dotnet\obj\Debug\netcoreapp2.0\HttpClient_dotnet.pdb
